@@ -1,0 +1,6 @@
+name: MBTA Routes
+description: 'Provides details about Massachusetts Bay Transit Authority subway train routes.'
+package: MBTA Routes
+type: module
+version: 1.0
+core: '8.x'
